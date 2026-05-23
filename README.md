@@ -7,7 +7,6 @@ This repository provides the processed dataset used in our submission.
 - `pages_pretty_by_storyname/`: page-level story files (one JSON per story), grouped by age bucket.
 - `stories_merged_per_file/`: story-level merged files (one JSON per story), grouped by age bucket.
 - `age_distribution_summary.json`: age-bucket counts over the released dataset.
-- `all_datasets_aggregation_summary.json`: aggregation summary across source splits.
 - `dataset_paper_stats_summary.json`: dataset statistics used in the paper.
 
 ## Data Format
