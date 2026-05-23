@@ -1,0 +1,67 @@
+[
+  {
+    "title_zh": "43两个电视迷",
+    "title_en": "Two TV Addicts",
+    "target_age": "7-10",
+    "source_type": "pptx",
+    "source_file": "43两个电视迷（7-10岁）.pptx",
+    "page_index_in_story": 1,
+    "source_page": 1,
+    "image_path": "images/slide_01.png",
+    "page_text_ocr_zh": "{\n  \"raw_extracted_text\": \"两个电视迷\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔米米\\n\\n小兔",
+    "page_text_en": "",
+    "summary_zh": ""
+  },
+  {
+    "title_zh": "43两个电视迷",
+    "title_en": "Two TV Addicts",
+    "target_age": "7-10",
+    "source_type": "pptx",
+    "source_file": "43两个电视迷（7-10岁）.pptx",
+    "page_index_in_story": 2,
+    "source_page": 2,
+    "image_path": "images/slide_02.png",
+    "page_text_ocr_zh": "bù guāng shì xiǎo hái ài kàn diàn shì\n不光是小孩爱看电视。\nyǒu yī zhī māo tóu yīng yě fēi cháng ài kàn diàn shì\n有一只猫头鹰也非常爱看电视。\nměi tiān wǎn shàng, yī zhuàng liǎng céng fáng wū lǐ de diàn shì\n每天晚上,一幢两层楼房里的电视\njī yī dǎ kāi, māo tóu yīng jiù duǒ zài chuāng wài dà shù\n机一打开,猫头鹰就躲在窗外大树\nshàng, kàn de jīn jīn yǒu wèi\n上,看得津津有味。\nbú guò māo tóu yīng yě yǒu chuǎng huò de shí hou\n不过,猫头鹰也有闯祸的时候。\nyǒu yī cì, diàn shì jī lǐ zhèng fàng dòng huà piàn\n有一次,电视机里正播放动画片\n《lǎo shǔ qǔ qīn》。yī kàn lǎo shǔ dāng shàng le xīn láng\n《老鼠娶亲》。一看老鼠当上了新郎,\nzhè wèi bǔ lǎo shǔ zhuān jiā fā huǒ le, tā yī tóu zhuàng zài diàn\n这位捕鼠专家发火了,他一头撞在电\nshì píng mù shàng, chà diǎn bǎ yī wū zǐ rén xià huài\n视屏幕上,差点把一屋子人吓坏……",
+    "page_text_en": "bù guāng shì xiǎo hái ài kàn diàn shì\nNot only children love watching TV.\nyǒu yī zhī māo tóu yīng yě fēi cháng ài kàn diàn shì\nThere was an owl who also loved watching TV very much.\nměi tiān wǎn shàng, yī zhuàng liǎng céng fáng wū lǐ de diàn shì\nEvery evening, in a two-story house, the TV\njī yī dǎ kāi, māo tóu yīng jiù duǒ zài chuāng wài dà shù\nwould turn on, and the owl would hide in the big tree outside the window,\nshàng, kàn de jīn jīn yǒu wèi\nwatching with great interest.\nbú guò māo tóu yīng yě yǒu chuǎng huò de shí hou\nBut the owl also had moments of trouble.\nyǒu yī cì, diàn shì jī lǐ zhèng fàng dòng huà piàn\nOnce, the TV was playing the cartoon\n《lǎo shǔ qǔ qīn》。yī kàn lǎo shǔ dāng shàng le xīn láng\n\"The Mouse Wedding.\" When he saw the mouse become the groom,\nzè wèi bǔ lǎo shǔ zhuān jiā fā huǒ le, tā yī tóu zhuàng zài diàn\nthis mouse-catching expert got angry and crashed his head into the screen,\nshì píng mù shàng, chà diǎn bǎ yī wū zǐ rén xià huài\nalmost scaring everyone in the room...",
+    "summary_zh": "本页介绍了猫头鹰爱看电视的习惯，并讲述了一次它因动画片情节激动而撞向电视屏幕，吓坏了屋内孩子的趣事。"
+  },
+  {
+    "title_zh": "43两个电视迷",
+    "title_en": "Two TV Addicts",
+    "target_age": "7-10",
+    "source_type": "pptx",
+    "source_file": "43两个电视迷（7-10岁）.pptx",
+    "page_index_in_story": 3,
+    "source_page": 3,
+    "image_path": "images/slide_03.png",
+    "page_text_ocr_zh": "不光猫头鹰爱看电视，一只嘴长长的翠鸟也爱看电视，他也是躲在窗外的大树上看电视的。\n当然，翠鸟也有惹麻烦的时候。\n有一次，电视机里放《渔夫和金鱼的故事》。当金鱼一出来，翠鸟才想起今天晚饭还没吃，就拍拍翅膀，朝金鱼啄去。\n\n看电视的小姑娘吓坏了。还以为翠鸟是渔婆派来的魔鬼，拿起扇子就打。\n小翠鸟差点丧命。",
+    "page_text_en": "Not only does the owl love watching TV, but a long-beaked kingfisher also loves watching TV—he hides outside the window on a big tree to watch.\nOf course, the kingfisher sometimes causes trouble.\nOnce, the TV was playing \"The Fisherman and the Golden Fish.\" When the golden fish appeared, the kingfisher suddenly remembered he hadn't eaten dinner yet, so he flapped his wings and pecked at the fish.\n\nThe little girl watching TV was terrified. She thought the kingfisher was a demon sent by the fishwife and grabbed a fan to hit it.\nThe little kingfisher almost lost his life.",
+    "summary_zh": "本页讲述了翠鸟因看电视时被《渔夫和金鱼的故事》中的金鱼吸引，误以为是真鱼而冲向屏幕，结果被看电视的小女孩误认为是魔鬼并用扇子打，差点丧命的趣事。"
+  },
+  {
+    "title_zh": "43两个电视迷",
+    "title_en": "Two TV Addicts",
+    "target_age": "7-10",
+    "source_type": "pptx",
+    "source_file": "43两个电视迷（7-10岁）.pptx",
+    "page_index_in_story": 4,
+    "source_page": 4,
+    "image_path": "images/slide_04.png",
+    "page_text_ocr_zh": "后来，猫头鹰和翠鸟这两个电视迷相识了，这下可好了，他们决定在一起看电视，这样可以互相提醒。\n\n当电视里出现老鼠的时候，翠鸟就拽住猫头鹰；同样，当电视里出现金鱼的时候，猫头鹰就拽住翠鸟。\n\n自从他们成为朋友以后，看电视时再也没有惹过麻烦。\n\n每次，当电视节目结束后，猫头鹰和翠鸟就互相鞠躬，感谢对方对自己的提醒和劝阻……",
+    "page_text_en": "Later, the owl and the kingfisher, these two TV addicts, got to know each other. This was great! They decided to watch TV together, so they could remind each other.\n\nWhen a mouse appeared on TV, the kingfisher would grab the owl; similarly, when a goldfish appeared on TV, the owl would grab the kingfisher.\n\nSince they became friends, they never caused any trouble while watching TV.\n\nEach time, after the TV program ended, the owl and the kingfisher would bow to each other, thanking one another for their reminders and advice...",
+    "summary_zh": "猫头鹰和翠鸟成为电视迷朋友后，互相提醒避免因电视内容而冲动，节目结束后互相鞠躬致谢。"
+  },
+  {
+    "title_zh": "43两个电视迷",
+    "title_en": "Two TV Addicts",
+    "target_age": "7-10",
+    "source_type": "pptx",
+    "source_file": "43两个电视迷（7-10岁）.pptx",
+    "page_index_in_story": 5,
+    "source_page": 5,
+    "image_path": "images/slide_05.png",
+    "page_text_ocr_zh": "",
+    "page_text_en": "",
+    "summary_zh": "本页画面中，一只紫色的猫头鹰裹着毯子，闭着眼睛，头顶有“Z”符号，正在熟睡，背景为浅色房间，有模糊的窗户和床的轮廓，整体呈现宁静的睡眠场景。"
+  }
+]
